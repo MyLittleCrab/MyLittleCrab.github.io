@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Простой js - тетрис</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		body {
+			display: flex;
+			flex-direction: row;
+		}
+		#game {
+			margin-right: 15px;
+		}
+		#score {
+			font-weight: bold;
+			font-size: 18px;
+		}
+		td {
+			font-size: 0px;
+			width: 15px;
+			height: 15px;
+			border-radius: 5px;
+			background-color: #e6e5e5;
+		}
+		td.black {
+			background-color: black;
+		}
+	</style>
+</head>
+<body>
+	<table id="game">
+		<script type="text/javascript">
+			var linesCount = 30;
+			var columnsCount = 10;
+			for (var i = 0 ; i < linesCount; i++){
+				document.write("<tr>");
+				for (var j = 0; j < columnsCount; j++){
+					document.write("<td id='b" + i + j + "'>&nbsp;</td>");
+				}
+				document.write("</tr>");
+			}
+		</script>
+	</table>
+	<div id="stat">
+		<div id="nextElement">
+			<table>
+				<script type="text/javascript">
+					for (var i = 0; i < 4; i++){
+						document.write("<tr>");
+						for (var j = 0; j < 4; j++){
+							document.write("<td id='n" + i + j + "'>&nbsp;</td>");		
+						}
+						document.write("</tr>");
+					}
+				</script>
+			</table>
+		</div>
+		<div id="score">0</div>
+	</div>
+	<script type="text/javascript">	
+		// service functions
+		function arrayEqual(arr1,arr2){ // because in js [1,2,3] != [1,2,3]
+			for ( var i = 0; i < arr1.length; i++ ){
+				if (arr1[i] != arr2[i]){
+					return false;
+				}
+			}
+			return true;
+		}
+		function arrayTryFind(arr,tryEl){
+			/* trying to get "tryEl" in "arr" */
+			for ( var el of arr ){
+				if (arrayEqual(el,tryEl)){
+					return true;
+				}
+			}
+			return false;
+		}
+		function getPixel(i,j){
+			var pixel = document.getElementById('b' + i + j);
+			if (pixel == null){
+				return true;
+			}
+			return pixel.className == "black";
+		}
+		function drawPixel(i,j){
+			var pixel = document.getElementById('b'+ i + j);
+			pixel.className = "black";
+		}
+		function clearPixel(i,j){
+			var pixel = document.getElementById('b' + i + j);
+			pixel.className = "";
+		}
+		function dropLine(line){
+			incScore(100);
+			for (var i = line -1; i >= 0; i--){
+				for (var j = columnsCount - 1; j >=0; j--){
+					if (getPixel(i,j)){
+						drawPixel(i+1,j);
+					} else {
+						clearPixel(i+1,j);
+					}
+				}
+			}
+		}
+		function checkLines(){
+			for (var i = 0; i < linesCount; i++){
+				if (checkLine(i)){
+					dropLine(i);
+				}
+			}
+		}
+		function checkLine(line){
+			for (var i = 0; i < columnsCount; i ++){
+				var pixel = document.getElementById('b' + line + i);
+				if (pixel.className != "black"){
+					return false;
+				}
+			}
+			return true;
+		}
+		function clearAll(){
+			var pixels = document.querySelectorAll(".black");
+			for ( pixel of pixels){
+				pixel.className = "";
+			}
+		}
+		function incScore(score){
+			var block = document.getElementById('score');
+			block.innerText = block.innerText - 0 + score;
+		}
+		function getRandomInt(min,max){
+			return Math.floor(min + Math.random() * (max + 1 - min));
+		}
+
+		
+		//game functions
+		var nextEl = getRandomInt(1,7);
+		
+		function getRandomElement(){
+			/* getting random element and drawing it on the right panel */
+			var returnEl = nextEl;
+			nextEl = getRandomInt(1,7);
+			switch (nextEl){
+				case 1:
+					var map = [
+							[0,0,0,0],
+							[0,0,1,0],
+							[0,1,1,0],
+							[0,1,0,0]
+						];
+					break;
+				case 2:
+					var map = [
+							[0,0,0,0],
+							[0,1,0,0],
+							[0,1,1,0],
+							[0,0,1,0]
+						];
+					break;
+				case 3:
+					var map = [
+							[0,0,1,0],
+							[0,0,1,0],
+							[0,0,1,0],
+							[0,0,1,0]
+						];
+					break;
+				case 4:
+					var map = [
+							[0,0,0,0],
+							[0,1,1,0],
+							[0,1,1,0],
+							[0,0,0,0]
+						];
+					break;
+				case 5:
+					var map = [
+							[0,0,0,0],
+							[0,1,1,0],
+							[0,0,1,0],
+							[0,0,1,0]
+						];
+					break;
+				case 6:
+					var map = [
+							[0,0,0,0],
+							[0,1,1,0],
+							[0,1,0,0],
+							[0,1,0,0]
+						];
+					break;
+				case 7:
+					var map = [
+							[0,0,0,0],
+							[0,0,1,0],
+							[0,1,1,0],
+							[0,0,1,0]
+						];
+					break;
+			}
+			var coords = [];
+			for (var i = 0; i < 4; i++){
+				for (var j = 0; j < 4; j ++){
+					if (map[i][j] == 1){
+						var temparr = [i,j];
+						coords.push(temparr);
+					}
+				}
+			}
+			var blackEls = document.querySelectorAll("#nextElement .black");
+			for (var be of blackEls){
+				be.className = "";
+			}
+			for (var coord of coords){
+				var el = document.getElementById("n" + coord[0] + coord[1]);
+				el.className = "black";
+			}
+			return returnEl;
+		}
+		// Elements class
+		function Element(){
+			this.map = [];
+			this.coords = [];
+			this.deltaX = Math.floor(columnsCount / 2) - 2;
+			this.deltaY = 0;
+			this.delay = 500;
+			this.load = function(){
+				var elNumber = getRandomElement();
+				switch (elNumber){
+					case 1:
+						this.map = [
+								[0,0,0,0],
+								[0,0,1,0],
+								[0,1,1,0],
+								[0,1,0,0]
+							];
+						break;
+					case 2:
+						this.map = [
+								[0,0,0,0],
+								[0,1,0,0],
+								[0,1,1,0],
+								[0,0,1,0]
+							];
+						break;
+					case 3:
+						this.map = [
+								[0,0,1,0],
+								[0,0,1,0],
+								[0,0,1,0],
+								[0,0,1,0]
+							];
+						break;
+					case 4:
+						this.map = [
+								[0,0,0,0],
+								[0,1,1,0],
+								[0,1,1,0],
+								[0,0,0,0]
+							];
+						break;
+					case 5:
+						this.map = [
+								[0,0,0,0],
+								[0,1,1,0],
+								[0,0,1,0],
+								[0,0,1,0]
+							];
+						break;
+					case 6:
+						this.map = [
+								[0,0,0,0],
+								[0,1,1,0],
+								[0,1,0,0],
+								[0,1,0,0]
+							];
+						break;
+					case 7:
+						this.map = [
+								[0,0,0,0],
+								[0,0,1,0],
+								[0,1,1,0],
+								[0,0,1,0]
+							];
+						break;
+				}
+				this.calcCoords();
+			}
+			this.calcCoords = function(){
+				this.coords = [];
+				for (var i = 0; i < 4; i++){
+					for (var j = 0; j < 4; j ++){
+						if (this.map[i][j] == 1){
+							var temparr = [this.deltaY + i, this.deltaX + j];
+							this.coords.push(temparr);
+						}
+					}
+				}
+			}
+			this.checkCoords = function(way){
+				/* (way) may be "new" -- checking coords to create new element */
+				var ii = 0;
+				var jj = 0;
+				switch (way) {
+					case "down":
+						ii = 1;
+						break;
+					case "left":
+						jj = -1;
+						break;
+					case "right":
+						jj = 1;
+						break;
+				}
+				var tempCoords = [];
+				for ( var i = 0; i < 4; i++){
+					for ( var j = 0; j < 4; j++){
+						if (this.map[i][j] == 1){
+							var temparr = [this.deltaY + i + ii, this.deltaX + j + jj];
+							tempCoords.push(temparr);
+						}
+					}
+				}
+				if (way == "new"){
+					for (var coord of tempCoords){
+						if (getPixel(coord[0],coord[1])){
+							return false;
+						}
+					}					
+				} else {
+					for (var coord of tempCoords){
+						if (getPixel(coord[0],coord[1]) && !arrayTryFind(this.coords,coord)){
+							return false;
+						}
+					}					
+				}
+				return true;
+			}
+			this.writeCoords = function(){
+				for ( var coord of this.coords ){
+					drawPixel(coord[0], coord[1]);
+				}
+			}
+			this.clearCoords = function(){
+				for ( var coord of this.coords ){
+					clearPixel(coord[0], coord[1]);
+				}
+			}
+			this.run = function(){
+				this.deltaY += 1;
+				this.clearCoords();
+				this.calcCoords();
+				this.writeCoords();
+				if (this.checkCoords("down")){
+					setTimeout(()=>this.run(), this.delay);	
+				} else {
+					checkLines()
+					this.flyingFix();
+				}
+			}
+			this.flyingFix = function(){
+				/* fix situation when no space under the object, but user move left/right */
+				setTimeout(()=>{
+					if (this.checkCoords("down")){
+						this.run();
+					} else {
+						el = new Element();
+						el.load();
+						if (!el.checkCoords("new")){
+							alert("You lose! :(");
+							el = null;
+							return;
+						} else {
+							el.run();							
+						}
+					}
+				},this.delay);
+			}
+			this.move = function(way){
+				if (way == "left" && this.checkCoords("left")){
+					this.deltaX -= 1;
+				} else if (way == "right" && this.checkCoords("right")){
+					this.deltaX += 1;
+				}
+				this.clearCoords();
+				this.calcCoords();
+				this.writeCoords();
+			}
+			this.rotate = function(){
+				var tempMap1 = [[],[],[],[]];
+				var tempMap2 = [[],[],[],[]];
+				for (var i = 0; i < 4; i ++){
+					for (var j = 0; j < 4; j ++){
+						tempMap1[3-j][3-i] = this.map[i][j];
+					}
+
+				}
+				for (var i = 0; i < 4; i++){
+					for (var j = 0; j < 4; j ++){
+						tempMap2[i][j] = tempMap1[3-i][j];
+					}
+				}
+				var tempCoords = [];
+				for (var i = 0; i < 4; i ++){
+					for (var j = 0; j < 4; j++){
+							if (tempMap2[i][j] == 1){
+							var temparr = [this.deltaY + i, this.deltaX + j];
+							tempCoords.push(temparr);
+						}
+					}
+				}
+
+				for (var coord of tempCoords){
+					if (getPixel(coord[0],coord[1]) && !arrayTryFind(this.coords,coord)){
+						return;
+					}
+				}
+
+				this.map = tempMap2;
+				this.clearCoords();
+				this.coords = tempCoords;
+				this.writeCoords();
+			}
+			this.fastDownStart = function(){
+				this.delay = 40;
+			}
+			this.fastDownStop = function(){
+				this.delay = 500;
+			}
+		}
+		document.onkeydown = function(e){
+			switch(e.keyCode){
+				case 39:
+					el.move("right");
+					break;
+				case 37:
+					el.move("left");
+					break;
+				case 32:
+					el.rotate();
+					break;
+				case 40:
+					el.fastDownStart();
+			}
+		}
+		document.onkeyup = function(){
+			el.fastDownStop();
+		}
+		// А вот и сами ходы
+		var el = new Element();
+		el.load();
+		el.run();
+	</script>
+</body>
+</html>
