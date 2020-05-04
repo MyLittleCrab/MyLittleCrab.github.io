@@ -25160,7 +25160,7 @@ function Post(_ref) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!**********************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fposts%2F%5Bslug%5D&absolutePagePath=%2Fhome%2Fcrab%2Frepos%2Fblog-starter-app%2Fpages%2Fposts%2F%5Bslug%5D.js&hotRouterUpdates=true ***!
   \**********************************************************************************************************************************************************************************/
@@ -25183,5 +25183,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[slug].js.map
