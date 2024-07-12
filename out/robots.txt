@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://nosoff.info
-
-# Sitemaps
-Sitemap: https://nosoff.info/sitemap.xml
