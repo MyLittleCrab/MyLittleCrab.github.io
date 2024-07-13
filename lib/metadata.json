@@ -1,34 +1,45 @@
 {
   "vaultName": "Nosov Blog",
-  "lastExport": 1720813897169,
+  "lastExport": 1720839081151,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712215939.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712220921.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221325.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221509.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221805.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221847.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712222325.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712222534.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712223050.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712223616.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712223651.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712224453.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712225058.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712225737.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712225843.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230057.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230216.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230248.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230613.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230828.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230928.png",
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Как заворачивать трафик в VPN на уровне роутера.md",
+    "BlogPosts/Production/Shorts/QR сканнер/Assets/photo_2024-03-05_23-49-50.jpg",
+    "BlogPosts/Production/Shorts/QR сканнер/Простой QR сканнер своими руками без мам, пап и кредитов на React Native.md",
+    "BlogPosts/Production/Shorts/http сервер для статики одной командой.md",
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/background.jpg",
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/meme.jpg",
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/meme data.jpg",
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/shushary.png",
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/stations.csv",
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/Экспортируем нужные нам данные из openStreetMap.md",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712215939.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712220921.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221325.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221509.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221805.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221847.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712222325.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712222534.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712223050.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712223616.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712223651.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712224453.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712225058.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712225737.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712225843.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230057.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230216.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230248.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230613.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230828.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230928.png",
+    "BlogPosts/Production/TLDR/VPN на роутере/Как заворачивать трафик в VPN на уровне роутера.md",
     "index.md",
+    "Shorts.md",
+    "TL;DR.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -95,474 +106,573 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712215939.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 40853,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png",
+    "BlogPosts/Production/Shorts/QR сканнер/Assets/photo_2024-03-05_23-49-50.jpg": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 57268,
+      "exportedPath": "blogposts/production/shorts/qr-сканнер/assets/photo_2024-03-05_23-49-50.jpg",
       "dependencies": []
     },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712220921.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 20915,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221325.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 16015,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221509.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 30210,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221805.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 30751,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712221847.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 20493,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712222325.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 2452,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712222534.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 21065,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712223050.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 11136,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712223616.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 11168,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712223651.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 75829,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712224453.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 143157,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712225058.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 77429,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712225737.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 64187,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712225843.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 34976,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230057.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 33801,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230216.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 15308,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230248.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 45308,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230613.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 31149,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230828.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 6177,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Assets/Pasted image 20240712230928.png": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 344554,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png",
-      "dependencies": []
-    },
-    "BlogPosts/Poduction/TLDR/VPN на роутере/Как заворачивать трафик в VPN на уровне роутера.md": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 13395,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/как-заворачивать-трафик-в-vpn-на-уровне-роутера.html",
+    "BlogPosts/Production/Shorts/QR сканнер/Простой QR сканнер своими руками без мам, пап и кредитов на React Native.md": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 6431,
+      "exportedPath": "blogposts/production/shorts/qr-сканнер/простой-qr-сканнер-своими-руками-без-мам,-пап-и-кредитов-на-react-native.html",
       "dependencies": [
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png",
-        "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png"
+        "blogposts/production/shorts/qr-сканнер/assets/photo_2024-03-05_23-49-50.jpg"
+      ]
+    },
+    "BlogPosts/Production/Shorts/http сервер для статики одной командой.md": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 458,
+      "exportedPath": "blogposts/production/shorts/http-сервер-для-статики-одной-командой.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/background.jpg": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 314108,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/background.jpg",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/meme.jpg": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 36132,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme.jpg",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/meme data.jpg": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 58202,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme-data.jpg",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/shushary.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 169177,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/shushary.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/exporting_data_form_osm/stations.csv": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 511582,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/stations.csv",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/Экспорт из openstreetmap/Экспортируем нужные нам данные из openStreetMap.md": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 14100,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/экспортируем-нужные-нам-данные-из-openstreetmap.html",
+      "dependencies": [
+        "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme.jpg",
+        "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme.jpg",
+        "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/shushary.png",
+        "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/shushary.png",
+        "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme-data.jpg",
+        "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme-data.jpg"
+      ]
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712215939.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 40853,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712220921.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 20915,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221325.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 16015,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221509.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 30210,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221805.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 30751,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712221847.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 20493,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712222325.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 2452,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712222534.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 21065,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712223050.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 11136,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712223616.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 11168,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712223651.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 75829,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712224453.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 143157,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712225058.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 77429,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712225737.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 64187,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712225843.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 34976,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230057.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 33801,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230216.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 15308,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230248.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 45308,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230613.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 31149,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230828.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 6177,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Assets/Pasted image 20240712230928.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 344554,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/TLDR/VPN на роутере/Как заворачивать трафик в VPN на уровне роутера.md": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 13853,
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/как-заворачивать-трафик-в-vpn-на-уровне-роутера.html",
+      "dependencies": [
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png",
+        "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png"
       ]
     },
     "index.md": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 429,
+      "modifiedTime": 1720839081151,
+      "sourceSize": 621,
       "exportedPath": "index.html",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png": {
-      "modifiedTime": 1720813897169,
+    "Shorts.md": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 197,
+      "exportedPath": "shorts.html",
+      "dependencies": []
+    },
+    "TL;DR.md": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 195,
+      "exportedPath": "tl;dr.html",
+      "dependencies": []
+    },
+    "blogposts/production/shorts/qr-сканнер/assets/photo_2024-03-05_23-49-50.jpg": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 57268,
+      "exportedPath": "blogposts/production/shorts/qr-сканнер/assets/photo_2024-03-05_23-49-50.jpg",
+      "dependencies": []
+    },
+    "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme.jpg": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 36132,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme.jpg",
+      "dependencies": []
+    },
+    "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/shushary.png": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 169177,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/shushary.png",
+      "dependencies": []
+    },
+    "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme-data.jpg": {
+      "modifiedTime": 1720839081151,
+      "sourceSize": 58202,
+      "exportedPath": "blogposts/production/tldr/экспорт-из-openstreetmap/exporting_data_form_osm/meme-data.jpg",
+      "dependencies": []
+    },
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 40853,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712215939.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 20915,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712220921.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 16015,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221325.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 30210,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221509.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 30751,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221805.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 20493,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712221847.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 2452,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222325.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 21065,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712222534.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 11136,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223050.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 75829,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223651.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 11168,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712223616.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 143157,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712224453.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 77429,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225058.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 64187,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225737.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 34976,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712225843.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 33801,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230057.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 45308,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230248.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 15308,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230216.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 31149,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230613.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 6177,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230828.png",
       "dependencies": []
     },
-    "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png": {
-      "modifiedTime": 1720813897169,
+    "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png": {
+      "modifiedTime": 1720839081151,
       "sourceSize": 344554,
-      "exportedPath": "blogposts/poduction/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png",
+      "exportedPath": "blogposts/production/tldr/vpn-на-роутере/assets/pasted-image-20240712230928.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 26727,
+      "modifiedTime": 1720839081151,
+      "sourceSize": 41350,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1720813897169,
-      "sourceSize": 416,
+      "modifiedTime": 1720839081151,
+      "sourceSize": 946,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 1977093,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 5264,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1720813897169,
+      "modifiedTime": 1720839081151,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
