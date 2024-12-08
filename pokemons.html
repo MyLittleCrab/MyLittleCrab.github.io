@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title></title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <table>
+<thead>
+<tr>
+<th>Изображение Покемона</th>
+<th>Название на русском</th>
+<th>Название на английском</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/timburr.jpg" alt="Timburr"></td>
+<td>Тимбурр</td>
+<td>Timburr</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/roggenrola.jpg" alt="Roggenrola"></td>
+<td>Роггенрола</td>
+<td>Roggenrola</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/machop.jpg" alt="Machop"></td>
+<td>Ма́чоп</td>
+<td>Machop</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/gastly.jpg" alt="Gastly"></td>
+<td>Гастли</td>
+<td>Gastly</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/abra.jpg" alt="Abra"></td>
+<td>Абра</td>
+<td>Abra</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/geodude.jpg" alt="Geodude"></td>
+<td>Геодуд</td>
+<td>Geodude</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/phantump.jpg" alt="Phantump"></td>
+<td>Фантомп</td>
+<td>Phantump</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/karrablast.jpg" alt="Karrablast"></td>
+<td>Каррабласт</td>
+<td>Karrablast</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/shelmet.jpg" alt="Shelmet"></td>
+<td>Шелмет</td>
+<td>Shelmet</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/pumpkaboo.jpg" alt="Pumpkaboo"></td>
+<td>Пампкабу</td>
+<td>Pumpkaboo</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/gurdurr.jpg" alt="Gurdurr"></td>
+<td>Гурдурр</td>
+<td>Gurdurr</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/boldore.jpg" alt="Boldore"></td>
+<td>Болдор</td>
+<td>Boldore</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/machoke.jpg" alt="Machoke"></td>
+<td>Ма́чок</td>
+<td>Machoke</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/haunter.jpg" alt="Haunter"></td>
+<td>Хаунтер</td>
+<td>Haunter</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/kadabra.jpg" alt="Kadabra"></td>
+<td>Кадабра</td>
+<td>Kadabra</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/graveler.jpg" alt="Graveler"></td>
+<td>Гравлер</td>
+<td>Graveler</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/trevenant.jpg" alt="Trevenant"></td>
+<td>Тревенант</td>
+<td>Trevenant</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/escavalier.jpg" alt="Escavalier"></td>
+<td>Эскавалье</td>
+<td>Escavalier</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/accelgor.jpg" alt="Accelgor"></td>
+<td>Акцельгор</td>
+<td>Accelgor</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/gourgeist.jpg" alt="Gourgeist"></td>
+<td>Гургест</td>
+<td>Gourgeist</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/conkeldurr.jpg" alt="Conkeldurr"></td>
+<td>Конкельдурр</td>
+<td>Conkeldurr</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/gigalith.jpg" alt="Gigalith"></td>
+<td>Гигалит</td>
+<td>Gigalith</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/machamp.jpg" alt="Machamp"></td>
+<td>Ма́чам</td>
+<td>Machamp</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/gengar.jpg" alt="Gengar"></td>
+<td>Гengar</td>
+<td>Gengar</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/alakazam.jpg" alt="Alakazam"></td>
+<td>Алаказам</td>
+<td>Alakazam</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/golem.jpg" alt="Golem"></td>
+<td>Голем</td>
+<td>Golem</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/azumarill.jpg" alt="Azumarill"></td>
+<td>Азумарилл</td>
+<td>Azumarill</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/altaria.jpg" alt="Altaria"></td>
+<td>Альтария</td>
+<td>Altaria</td>
+</tr>
+<tr>
+<td><img src="https://archives.bulbagarden.net/media/upload/thumb/7/7b/0618Stunfisk.png/250px-0618Stunfisk.png" alt="Galarian Stunfisk"></td>
+<td>Галарийский Станфиск</td>
+<td>Galarian Stunfisk</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/swampert.jpg" alt="Swampert"></td>
+<td>Свамперт</td>
+<td>Swampert</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/skarmory.jpg" alt="Skarmory"></td>
+<td>Скармори</td>
+<td>Skarmory</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/registeel.jpg" alt="Registeel"></td>
+<td>Реджистил</td>
+<td>Registeel</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/umbreon.jpg" alt="Umbreon"></td>
+<td>Умбреон</td>
+<td>Umbreon</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/deoxys.jpg" alt="Deoxys"></td>
+<td>Деоксис</td>
+<td>Deoxys</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/medicham.jpg" alt="Medicham"></td>
+<td>Медичам</td>
+<td>Medicham</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/bastiodon.jpg" alt="Bastiodon"></td>
+<td>Бастиодон</td>
+<td>Bastiodon</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/cresselia.jpg" alt="Cresselia"></td>
+<td>Креселия</td>
+<td>Cresselia</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/avif/giratina-altered.avif" alt="Giratina"></td>
+<td>Джиратина</td>
+<td>Giratina</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/talonflame.jpg" alt="Talonflame"></td>
+<td>Талонфлейм</td>
+<td>Talonflame</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/scrafty.jpg" alt="Scrafty"></td>
+<td>Скрэфти</td>
+<td>Scrafty</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/obstagoon.jpg" alt="Obstagoon"></td>
+<td>Обстагун</td>
+<td>Obstagoon</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/snorlax.jpg" alt="Snorlax"></td>
+<td>Снорлакс</td>
+<td>Snorlax</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/dialga.jpg" alt="Dialga"></td>
+<td>Дьялга</td>
+<td>Dialga</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/lugia.jpg" alt="Lugia"></td>
+<td>Лу́гия</td>
+<td>Lugia</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/mewtwo.jpg" alt="Mewtwo"></td>
+<td>Мьюту</td>
+<td>Mewtwo</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/zacian.jpg" alt="Zacian"></td>
+<td>Зациан</td>
+<td>Zacian</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/melmetal.jpg" alt="Melmetal"></td>
+<td>Мелметал</td>
+<td>Melmetal</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/groudon.jpg" alt="Groudon"></td>
+<td>Граудон</td>
+<td>Groudon</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/kyogre.jpg" alt="Kyogre"></td>
+<td>Кайогр</td>
+<td>Kyogre</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/garchomp.jpg" alt="Garchomp"></td>
+<td>Гарчомп</td>
+<td>Garchomp</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/togekiss.jpg" alt="Togekiss"></td>
+<td>Тогекисс</td>
+<td>Togekiss</td>
+</tr>
+<tr>
+<td><img src="https://img.pokemondb.net/artwork/large/ho-oh.jpg" alt="Ho-Oh"></td>
+<td>Хо-О</td>
+<td>Ho-Oh</td>
+</tr>
+</tbody>
+</table>
+
+            
+            
+        </body>
+        </html>
