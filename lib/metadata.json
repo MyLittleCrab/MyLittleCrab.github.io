@@ -1,6 +1,6 @@
 {
   "vaultName": "Nosov Blog",
-  "lastExport": 1733681040595,
+  "lastExport": 1733682049996,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -52,28 +52,6 @@
     "index.md",
     "Shorts.md",
     "TL;DR.md",
-    "lib/media/photo_2024-03-05_23-49-50.jpg",
-    "lib/media/pasted-image-20240712215939.png",
-    "lib/media/pasted-image-20240712220921.png",
-    "lib/media/pasted-image-20240712221325.png",
-    "lib/media/pasted-image-20240712221509.png",
-    "lib/media/pasted-image-20240712221805.png",
-    "lib/media/pasted-image-20240712221847.png",
-    "lib/media/pasted-image-20240712222325.png",
-    "lib/media/pasted-image-20240712222534.png",
-    "lib/media/pasted-image-20240712223050.png",
-    "lib/media/pasted-image-20240712223651.png",
-    "lib/media/pasted-image-20240712223616.png",
-    "lib/media/pasted-image-20240712224453.png",
-    "lib/media/pasted-image-20240712225058.png",
-    "lib/media/pasted-image-20240712225737.png",
-    "lib/media/pasted-image-20240712225843.png",
-    "lib/media/pasted-image-20240712230057.png",
-    "lib/media/pasted-image-20240712230248.png",
-    "lib/media/pasted-image-20240712230216.png",
-    "lib/media/pasted-image-20240712230613.png",
-    "lib/media/pasted-image-20240712230828.png",
-    "lib/media/pasted-image-20240712230928.png",
     "lib/media/pasted-image-20241208193100.png",
     "lib/media/pasted-image-20241208193610.png",
     "lib/media/pasted-image-20241208194805.png",
@@ -83,9 +61,6 @@
     "lib/media/pasted-image-20241208215722.png",
     "lib/media/pasted-image-20241208220321.png",
     "lib/media/pasted-image-20241208232626.png",
-    "lib/media/meme.jpg",
-    "lib/media/shushary.png",
-    "lib/media/meme-data.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -116,7 +91,33 @@
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "lib/media/photo_2024-03-05_23-49-50.jpg",
+    "lib/media/pasted-image-20240712215939.png",
+    "lib/media/pasted-image-20240712220921.png",
+    "lib/media/pasted-image-20240712221325.png",
+    "lib/media/pasted-image-20240712221509.png",
+    "lib/media/pasted-image-20240712221805.png",
+    "lib/media/pasted-image-20240712221847.png",
+    "lib/media/pasted-image-20240712222325.png",
+    "lib/media/pasted-image-20240712222534.png",
+    "lib/media/pasted-image-20240712223050.png",
+    "lib/media/pasted-image-20240712223651.png",
+    "lib/media/pasted-image-20240712223616.png",
+    "lib/media/pasted-image-20240712224453.png",
+    "lib/media/pasted-image-20240712225058.png",
+    "lib/media/pasted-image-20240712225737.png",
+    "lib/media/pasted-image-20240712225843.png",
+    "lib/media/pasted-image-20240712230057.png",
+    "lib/media/pasted-image-20240712230248.png",
+    "lib/media/pasted-image-20240712230216.png",
+    "lib/media/pasted-image-20240712230613.png",
+    "lib/media/pasted-image-20240712230828.png",
+    "lib/media/pasted-image-20240712230928.png",
+    "lib/media/meme.jpg",
+    "lib/media/shushary.png",
+    "lib/media/meme-data.jpg",
+    "assets/index/img_3884.jpeg"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -423,8 +424,8 @@
       ]
     },
     "BlogPosts/Production/TLDR/Как собрать приложение для iOS на обычном ПК, или длинный путь установки MacOS на нормальное железо.md": {
-      "modifiedTime": 1733681040595,
-      "sourceSize": 18312,
+      "modifiedTime": 1733682049996,
+      "sourceSize": 18617,
       "exportedPath": "blogposts/production/tldr/как-собрать-приложение-для-ios-на-обычном-пк,-или-длинный-путь-установки-macos-на-нормальное-железо.html",
       "dependencies": [
         "lib/media/pasted-image-20241208193100.png",
@@ -452,22 +453,22 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1733681040595,
-      "sourceSize": 2026,
+      "modifiedTime": 1733682049996,
+      "sourceSize": 2769,
       "exportedPath": "index.html",
       "dependencies": [
         "assets/index/img_3884.jpeg"
       ]
     },
     "Shorts.md": {
-      "modifiedTime": 1733681040595,
-      "sourceSize": 1325,
+      "modifiedTime": 1733682049996,
+      "sourceSize": 1346,
       "exportedPath": "shorts.html",
       "dependencies": []
     },
     "TL;DR.md": {
-      "modifiedTime": 1733681040595,
-      "sourceSize": 1115,
+      "modifiedTime": 1733682049996,
+      "sourceSize": 1919,
       "exportedPath": "tl;dr.html",
       "dependencies": []
     },
@@ -604,55 +605,55 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20241208193100.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 126758,
       "exportedPath": "lib/media/pasted-image-20241208193100.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208193610.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 9407,
       "exportedPath": "lib/media/pasted-image-20241208193610.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208194805.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 72349,
       "exportedPath": "lib/media/pasted-image-20241208194805.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208202856.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 45017,
       "exportedPath": "lib/media/pasted-image-20241208202856.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208203120.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 60170,
       "exportedPath": "lib/media/pasted-image-20241208203120.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208214749.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 6762,
       "exportedPath": "lib/media/pasted-image-20241208214749.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208215722.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 5457,
       "exportedPath": "lib/media/pasted-image-20241208215722.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208220321.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 11063,
       "exportedPath": "lib/media/pasted-image-20241208220321.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208232626.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 1974177,
       "exportedPath": "lib/media/pasted-image-20241208232626.png",
       "dependencies": []
@@ -676,193 +677,193 @@
       "dependencies": []
     },
     "assets/index/img_3884.jpeg": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 7149657,
       "exportedPath": "assets/index/img_3884.jpeg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 50606,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733681040595,
-      "sourceSize": 1229,
+      "modifiedTime": 1733682049996,
+      "sourceSize": 1275,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 89089,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 396498,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 2428,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733681040595,
+      "modifiedTime": 1733682049996,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
