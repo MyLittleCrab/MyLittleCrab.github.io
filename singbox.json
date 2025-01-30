@@ -7,18 +7,22 @@
     "dns": {
         "servers": [
             {
-                "tag": "cloudflare",
-                "address": "tls://1.1.1.1",
-                "address_resolver": "local",
+                "tag": "google",
+                "address": "tls://8.8.8.8",
+                "address_resolver": "local-dns",
                 "detour": "reality-out"
             },
             {
-                "tag": "local",
+                "tag": "block",
+                "address": "rcode://success"
+            },
+            {
+                "tag": "local-dns",
                 "address": "local",
                 "detour": "direct"
-            }
+                }
         ],
-        "final": "cloudflare",
+        "final": "local-dns",
         "strategy": "prefer_ipv4",
         "disable_cache": false,
         "disable_expire": false
@@ -33,7 +37,7 @@
             "mtu": 1500,
             "auto_route": true,
             "strict_route": false,
-            "independent_nat": true,
+            "endpoint_independent_nat": false,
             "sniff": true,
             "sniff_override_destination": true
         }
@@ -69,7 +73,7 @@
             ],
             "url": "http://www.gstatic.com/generate_204",
             "interval": "1m",
-            "max_delay": 500
+            "tolerance": 50
         },
         {
             "type": "vless",
@@ -81,17 +85,17 @@
             "network": "tcp",
             "tls": {
                 "enabled": true,
-                "disable_certificate_verification": false,
+                "insecure": false,
                 "server_name": "www.google.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
                 "reality": {
                     "enabled": true,
                     "public_key": "sUJiIKPH67vE5cHrImtFfpR5PuRHI5SnD1ZZWuSBWmU",
                     "short_id": "1c36a37223753d9c"
                 }
-            },
-            "utls": {
-                "enabled": true,
-                "fingerprint": "chrome"
             }
         }
     ],
@@ -106,7 +110,7 @@
                 "outbound": "block"
             }
         ],
-        "final": "Proxy-out",
+        "final": "reality-out",
         "auto_detect_interface": true
     }
 }
