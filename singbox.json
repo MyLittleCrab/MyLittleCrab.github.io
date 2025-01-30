@@ -9,21 +9,11 @@
             {
                 "tag": "cloudflare",
                 "address": "tls://1.1.1.1",
-                "address_resolver": "local-dns",
+                "address_resolver": "local",
                 "detour": "reality-out"
             },
             {
-                "tag": "cloudflare-backup",
-                "address": "tls://1.0.0.1",
-                "address_resolver": "local-dns",
-                "detour": "reality-out"
-            },
-            {
-                "tag": "block",
-                "address": "rcode://success"
-            },
-            {
-                "tag": "local-dns",
+                "tag": "local",
                 "address": "local",
                 "detour": "direct"
             }
@@ -43,7 +33,7 @@
             "mtu": 1500,
             "auto_route": true,
             "strict_route": false,
-            "endpoint_independent_nat": false,
+            "independent_nat": true,
             "sniff": true,
             "sniff_override_destination": true
         }
@@ -79,7 +69,7 @@
             ],
             "url": "http://www.gstatic.com/generate_204",
             "interval": "1m",
-            "tolerance": 30
+            "max_delay": 500
         },
         {
             "type": "vless",
@@ -91,17 +81,17 @@
             "network": "tcp",
             "tls": {
                 "enabled": true,
-                "insecure": false,
+                "disable_certificate_verification": false,
                 "server_name": "www.google.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
                 "reality": {
                     "enabled": true,
                     "public_key": "sUJiIKPH67vE5cHrImtFfpR5PuRHI5SnD1ZZWuSBWmU",
                     "short_id": "1c36a37223753d9c"
                 }
+            },
+            "utls": {
+                "enabled": true,
+                "fingerprint": "chrome"
             }
         }
     ],
@@ -116,7 +106,7 @@
                 "outbound": "block"
             }
         ],
-        "final": "reality-out",
+        "final": "Proxy-out",
         "auto_detect_interface": true
     }
 }
