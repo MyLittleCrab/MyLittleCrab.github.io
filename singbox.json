@@ -8,19 +8,15 @@
         "servers": [
             {
                 "tag": "cloudflare",
-                "address": "1.1.1.1",
-                "dial": {
-                    "type": "tls",
-                    "server_name": "cloudflare-dns.com"
-                }
+                "address": "tls://1.1.1.1",
+                "address_resolver": "local-dns",
+                "detour": "reality-out"
             },
             {
                 "tag": "cloudflare-backup",
-                "address": "1.0.0.1",
-                "dial": {
-                    "type": "tls",
-                    "server_name": "cloudflare-dns.com"
-                }
+                "address": "tls://1.0.0.1",
+                "address_resolver": "local-dns",
+                "detour": "reality-out"
             },
             {
                 "tag": "block",
@@ -28,21 +24,26 @@
             },
             {
                 "tag": "local-dns",
-                "address": "local"
+                "address": "local",
+                "detour": "direct"
             }
         ],
         "final": "cloudflare",
-        "prefer_ipv4": true,
-        "disable_cache": false
+        "strategy": "prefer_ipv4",
+        "disable_cache": false,
+        "disable_expire": false
     },
     "inbounds": [
         {
             "type": "tun",
             "tag": "tun-in",
             "interface_name": "singtun0",
+            "inet4_address": "172.19.16.1/30",
+            "stack": "gvisor",
             "mtu": 1500,
             "auto_route": true,
             "strict_route": false,
+            "endpoint_independent_nat": false,
             "sniff": true,
             "sniff_override_destination": true
         }
@@ -67,13 +68,18 @@
             "tag": "block"
         },
         {
+            "type": "dns",
+            "tag": "dns-out"
+        },
+        {
             "type": "urltest",
             "tag": "URL-Test",
             "outbounds": [
                 "reality-out"
             ],
             "url": "http://www.gstatic.com/generate_204",
-            "interval": "1m"
+            "interval": "1m",
+            "tolerance": 30
         },
         {
             "type": "vless",
@@ -103,9 +109,14 @@
         "rules": [
             {
                 "protocol": "dns",
-                "server": "cloudflare"
+                "outbound": "dns-out"
+            },
+            {
+                "protocol": "quic",
+                "outbound": "block"
             }
         ],
-        "final": "reality-out"
+        "final": "reality-out",
+        "auto_detect_interface": true
     }
 }
