@@ -10,12 +10,7 @@
                 "tag": "google",
                 "address": "8.8.8.8",
                 "strategy": "prefer_ipv4",
-                "detour": "reality-out",
-                "resolver": {
-                    "type": "tls",
-                    "server_name": "dns.google",
-                    "insecure": false
-                }
+                "detour": "reality-out"
             },
             {
                 "tag": "block",
