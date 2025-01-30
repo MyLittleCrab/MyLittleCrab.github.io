@@ -7,10 +7,15 @@
     "dns": {
         "servers": [
             {
-                "tag": "cloudflare",
-                "address": "tls://1.1.1.1",
-                "address_resolver": "local-dns",
-                "detour": "reality-out"
+                "tag": "google",
+                "address": "8.8.8.8",
+                "strategy": "prefer_ipv4",
+                "detour": "reality-out",
+                "resolver": {
+                    "type": "tls",
+                    "server_name": "dns.google",
+                    "insecure": false
+                }
             },
             {
                 "tag": "block",
@@ -20,7 +25,7 @@
                 "tag": "local-dns",
                 "address": "local",
                 "detour": "direct"
-                }
+            }
         ],
         "final": "local-dns",
         "strategy": "prefer_ipv4",
@@ -30,14 +35,16 @@
     "inbounds": [
         {
             "type": "tun",
-            "address": ["172.19.0.1/30"],
-            "mtu": 1500,
-            "route_address": [
-                "0.0.0.0/1",
-                "::/1",
-                "128.0.0.0/1",
-                "8000::/1"
-            ]
+            "tag": "tun-in",
+            "interface_name": "singtun0",
+            "address": ["172.19.16.1/30"],
+            "stack": "gvisor",
+            "mtu": 1400,
+            "auto_route": true,
+            "strict_route": false,
+            "endpoint_independent_nat": false,
+            "sniff": true,
+            "sniff_override_destination": true
         }
     ],
     "outbounds": [
@@ -60,10 +67,6 @@
             "tag": "block"
         },
         {
-            "type": "dns",
-            "tag": "dns-out"
-        },
-        {
             "type": "urltest",
             "tag": "URL-Test",
             "outbounds": [
@@ -84,7 +87,7 @@
             "tls": {
                 "enabled": true,
                 "insecure": false,
-                "server_name": "www.cloudflare.com",
+                "server_name": "www.google.com",
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
@@ -101,11 +104,13 @@
         "rules": [
             {
                 "protocol": "dns",
-                "outbound": "dns-out"
+                "action": "route",
+                "server": "google"
             },
             {
                 "protocol": "quic",
-                "outbound": "block"
+                "action": "reject",
+                "method": "default"
             }
         ],
         "final": "reality-out",
