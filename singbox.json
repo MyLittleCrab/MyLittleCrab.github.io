@@ -8,8 +8,8 @@
         "servers": [
             {
                 "tag": "google",
-                "address": "8.8.8.8",
-                "strategy": "prefer_ipv4",
+                "address": "tls://8.8.8.8",
+                "address_resolver": "local-dns",
                 "detour": "reality-out"
             },
             {
@@ -20,7 +20,7 @@
                 "tag": "local-dns",
                 "address": "local",
                 "detour": "direct"
-            }
+                }
         ],
         "final": "local-dns",
         "strategy": "prefer_ipv4",
@@ -32,7 +32,7 @@
             "type": "tun",
             "tag": "tun-in",
             "interface_name": "singtun0",
-            "address": ["172.19.16.1/30"],
+            "inet4_address": "172.19.16.1/30",
             "stack": "gvisor",
             "mtu": 1400,
             "auto_route": true,
@@ -60,6 +60,10 @@
         {
             "type": "block",
             "tag": "block"
+        },
+        {
+            "type": "dns",
+            "tag": "dns-out"
         },
         {
             "type": "urltest",
@@ -99,13 +103,11 @@
         "rules": [
             {
                 "protocol": "dns",
-                "action": "route",
-                "server": "google"
+                "outbound": "dns-out"
             },
             {
                 "protocol": "quic",
-                "action": "reject",
-                "method": "default"
+                "outbound": "block"
             }
         ],
         "final": "reality-out",
