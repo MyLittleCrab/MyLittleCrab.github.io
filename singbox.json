@@ -30,16 +30,8 @@
     "inbounds": [
         {
             "type": "tun",
-            "tag": "tun-in",
-            "interface_name": "singtun0",
-            "inet4_address": "172.19.16.1/30",
-            "stack": "gvisor",
-            "mtu": 1500,
-            "auto_route": true,
-            "strict_route": false,
-            "endpoint_independent_nat": false,
-            "sniff": true,
-            "sniff_override_destination": true
+            "address": ["172.19.16.1/30"],
+            "mtu": 1500
         }
     ],
     "outbounds": [
