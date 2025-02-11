@@ -12,14 +12,29 @@
         document.addEventListener('DOMContentLoaded', function () {
             setTimeout(function () {
 
-                alert(JSON.stringify(cordova));
-                alert(JSON.stringify(cordova.exec));
+                if (cordova) {
+                    alert(JSON.stringify(cordova));
 
-                cordova.exec(function (oData) {
-                    alert(JSON.stringify(oData));
-                }, function (oError) {
-                    alert(oError);
-                }, "ChainwayScannerPlugin", "startUHFScan", []);
+                    if (cordova.exec) {
+                        alert(JSON.stringify(cordova.exec));
+
+                        cordova.exec(function (oData) {
+                            alert(JSON.stringify(oData));
+                        }, function (oError) {
+                            alert(oError);
+                        }, "ChainwayScannerPlugin", "startUHFScan", []);
+
+
+
+                    } else {
+                        alert("cordova exec not found")
+                    }
+                } else {
+                    alert("cordova not found");
+                }
+
+
+
 
             }, 2000);
 
