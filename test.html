@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            setTimeout(function () {
+
+                alert(JSON.stringify(cordova));
+                alert(JSON.stringify(cordova.exec));
+
+                cordova.exec(function (oData) {
+                    alert(JSON.stringify(oData));
+                }, function (oError) {
+                    alert(oError);
+                }, "ChainwayScannerPlugin", "startUHFScan", []);
+
+            }, 2000);
+
+        });
+    </script>
+</body>
+
+</html>
