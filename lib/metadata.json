@@ -1,11 +1,12 @@
 {
   "vaultName": "Nosov Blog",
-  "lastExport": 1746285480940,
+  "lastExport": 1747005745077,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Assets/Основы банкинга/банк.jpg",
     "Assets/Экспорт из openstreetmap/background.jpg",
     "Assets/Экспорт из openstreetmap/meme.jpg",
     "Assets/Экспорт из openstreetmap/meme data.jpg",
@@ -54,10 +55,42 @@
     "BlogPosts/Production/Shorts/VDS за NAT — как на нём хостить фоновые задания и веб-сервисы.md",
     "BlogPosts/Production/TLDR/Как заворачивать трафик в VPN на уровне роутера.md",
     "BlogPosts/Production/TLDR/Как собрать приложение для iOS на обычном ПК, или длинный путь установки MacOS на нормальное железо.md",
+    "BlogPosts/Production/TLDR/Основы банкинга на пальцах.md",
     "BlogPosts/Production/TLDR/Экспортируем нужные нам данные из openStreetMap.md",
     "index.md",
     "Shorts.md",
     "TL;DR.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
     "lib/media/photo_2024-03-05_23-49-50.jpg",
     "lib/media/pasted-image-20250503174351.png",
     "lib/media/pasted-image-20250503175410.png",
@@ -94,40 +127,11 @@
     "lib/media/pasted-image-20241208215722.png",
     "lib/media/pasted-image-20241208220321.png",
     "lib/media/pasted-image-20241208232626.png",
+    "lib/media/банк.jpg",
     "lib/media/meme.jpg",
     "lib/media/shushary.png",
     "lib/media/meme-data.jpg",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/6155340132a851f6089e.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css"
+    "assets/index/img_3884.jpeg"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -163,266 +167,272 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
+    "Assets/Основы банкинга/банк.jpg": {
+      "modifiedTime": 1747005698493,
+      "sourceSize": 355021,
+      "exportedPath": "assets/основы-банкинга/банк.jpg",
+      "dependencies": []
+    },
     "Assets/Экспорт из openstreetmap/background.jpg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 314108,
       "exportedPath": "assets/экспорт-из-openstreetmap/background.jpg",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/meme.jpg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 36132,
       "exportedPath": "assets/экспорт-из-openstreetmap/meme.jpg",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/meme data.jpg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 58202,
       "exportedPath": "assets/экспорт-из-openstreetmap/meme-data.jpg",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/shushary.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 169177,
       "exportedPath": "assets/экспорт-из-openstreetmap/shushary.png",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/stations.csv": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 511582,
       "exportedPath": "assets/экспорт-из-openstreetmap/stations.csv",
       "dependencies": []
     },
     "Assets/index/IMG_3884.jpeg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 7149657,
       "exportedPath": "assets/index/img_3884.jpeg",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208193100.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 126758,
       "exportedPath": "assets/macos/pasted-image-20241208193100.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208193610.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 9407,
       "exportedPath": "assets/macos/pasted-image-20241208193610.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208194805.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 72349,
       "exportedPath": "assets/macos/pasted-image-20241208194805.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208202856.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 45017,
       "exportedPath": "assets/macos/pasted-image-20241208202856.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208203120.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 60170,
       "exportedPath": "assets/macos/pasted-image-20241208203120.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208214749.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 6762,
       "exportedPath": "assets/macos/pasted-image-20241208214749.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208215722.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 5457,
       "exportedPath": "assets/macos/pasted-image-20241208215722.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208220321.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 11063,
       "exportedPath": "assets/macos/pasted-image-20241208220321.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208225828.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 11063,
       "exportedPath": "assets/macos/pasted-image-20241208225828.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208232626.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 1974177,
       "exportedPath": "assets/macos/pasted-image-20241208232626.png",
       "dependencies": []
     },
     "Assets/QR сканнер/photo_2024-03-05_23-49-50.jpg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 57268,
       "exportedPath": "assets/qr-сканнер/photo_2024-03-05_23-49-50.jpg",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503174351.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 90361,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503174351.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503175410.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 17645,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503175410.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503180710.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 6929,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503180710.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503180842.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 5572,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503180842.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503182001.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 8895,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503182001.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712215939.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 40853,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712215939.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712220921.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 20915,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712220921.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221325.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 16015,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221325.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221509.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 30210,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221509.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221805.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 30751,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221805.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221847.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 20493,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221847.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712222325.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 2452,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712222325.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712222534.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 21065,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712222534.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712223050.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 11136,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712223050.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712223616.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 11168,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712223616.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712223651.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 75829,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712223651.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712224453.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 143157,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712224453.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712225058.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 77429,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712225058.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712225737.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 64187,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712225737.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712225843.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 34976,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712225843.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230057.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 33801,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230057.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230216.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 15308,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230216.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230248.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 45308,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230248.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230613.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 31149,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230613.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230828.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 6177,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230828.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230928.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 344554,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230928.png",
       "dependencies": []
     },
     "BlogPosts/Production/Shorts/Простой QR сканнер своими руками без мам, пап и кредитов на React Native.md": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 6461,
       "exportedPath": "blogposts/production/shorts/простой-qr-сканнер-своими-руками-без-мам,-пап-и-кредитов-на-react-native.html",
       "dependencies": [
@@ -430,13 +440,13 @@
       ]
     },
     "BlogPosts/Production/Shorts/http сервер для статики одной командой.md": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 458,
       "exportedPath": "blogposts/production/shorts/http-сервер-для-статики-одной-командой.html",
       "dependencies": []
     },
     "BlogPosts/Production/Shorts/VDS за NAT — как на нём хостить фоновые задания и веб-сервисы.md": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 5123,
       "exportedPath": "blogposts/production/shorts/vds-за-nat-—-как-на-нём-хостить-фоновые-задания-и-веб-сервисы.html",
       "dependencies": [
@@ -448,7 +458,7 @@
       ]
     },
     "BlogPosts/Production/TLDR/Как заворачивать трафик в VPN на уровне роутера.md": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 14545,
       "exportedPath": "blogposts/production/tldr/как-заворачивать-трафик-в-vpn-на-уровне-роутера.html",
       "dependencies": [
@@ -476,7 +486,7 @@
       ]
     },
     "BlogPosts/Production/TLDR/Как собрать приложение для iOS на обычном ПК, или длинный путь установки MacOS на нормальное железо.md": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 18617,
       "exportedPath": "blogposts/production/tldr/как-собрать-приложение-для-ios-на-обычном-пк,-или-длинный-путь-установки-macos-на-нормальное-железо.html",
       "dependencies": [
@@ -491,8 +501,16 @@
         "lib/media/pasted-image-20241208232626.png"
       ]
     },
+    "BlogPosts/Production/TLDR/Основы банкинга на пальцах.md": {
+      "modifiedTime": 1747005698493,
+      "sourceSize": 9587,
+      "exportedPath": "blogposts/production/tldr/основы-банкинга-на-пальцах.html",
+      "dependencies": [
+        "lib/media/банк.jpg"
+      ]
+    },
     "BlogPosts/Production/TLDR/Экспортируем нужные нам данные из openStreetMap.md": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 14220,
       "exportedPath": "blogposts/production/tldr/экспортируем-нужные-нам-данные-из-openstreetmap.html",
       "dependencies": [
@@ -502,447 +520,453 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1746285480940,
-      "sourceSize": 3086,
+      "modifiedTime": 1747005745077,
+      "sourceSize": 3408,
       "exportedPath": "index.html",
       "dependencies": [
         "assets/index/img_3884.jpeg"
       ]
     },
     "Shorts.md": {
-      "modifiedTime": 1746285480940,
-      "sourceSize": 1615,
+      "modifiedTime": 1747005745077,
+      "sourceSize": 1623,
       "exportedPath": "shorts.html",
       "dependencies": []
     },
     "TL;DR.md": {
-      "modifiedTime": 1746285480940,
-      "sourceSize": 1919,
+      "modifiedTime": 1747005745077,
+      "sourceSize": 2232,
       "exportedPath": "tl;dr.html",
       "dependencies": []
     },
     "lib/media/photo_2024-03-05_23-49-50.jpg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 57268,
       "exportedPath": "lib/media/photo_2024-03-05_23-49-50.jpg",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503174351.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 90361,
       "exportedPath": "lib/media/pasted-image-20250503174351.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503175410.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 17645,
       "exportedPath": "lib/media/pasted-image-20250503175410.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503180710.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 6929,
       "exportedPath": "lib/media/pasted-image-20250503180710.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503180842.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 5572,
       "exportedPath": "lib/media/pasted-image-20250503180842.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503182001.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 8895,
       "exportedPath": "lib/media/pasted-image-20250503182001.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712215939.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 40853,
       "exportedPath": "lib/media/pasted-image-20240712215939.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712220921.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 20915,
       "exportedPath": "lib/media/pasted-image-20240712220921.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221325.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 16015,
       "exportedPath": "lib/media/pasted-image-20240712221325.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221509.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 30210,
       "exportedPath": "lib/media/pasted-image-20240712221509.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221805.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 30751,
       "exportedPath": "lib/media/pasted-image-20240712221805.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221847.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 20493,
       "exportedPath": "lib/media/pasted-image-20240712221847.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712222325.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 2452,
       "exportedPath": "lib/media/pasted-image-20240712222325.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712222534.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 21065,
       "exportedPath": "lib/media/pasted-image-20240712222534.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712223050.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 11136,
       "exportedPath": "lib/media/pasted-image-20240712223050.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712223651.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 75829,
       "exportedPath": "lib/media/pasted-image-20240712223651.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712223616.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 11168,
       "exportedPath": "lib/media/pasted-image-20240712223616.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712224453.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 143157,
       "exportedPath": "lib/media/pasted-image-20240712224453.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712225058.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 77429,
       "exportedPath": "lib/media/pasted-image-20240712225058.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712225737.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 64187,
       "exportedPath": "lib/media/pasted-image-20240712225737.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712225843.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 34976,
       "exportedPath": "lib/media/pasted-image-20240712225843.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230057.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 33801,
       "exportedPath": "lib/media/pasted-image-20240712230057.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230248.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 45308,
       "exportedPath": "lib/media/pasted-image-20240712230248.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230216.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 15308,
       "exportedPath": "lib/media/pasted-image-20240712230216.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230613.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 31149,
       "exportedPath": "lib/media/pasted-image-20240712230613.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230828.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 6177,
       "exportedPath": "lib/media/pasted-image-20240712230828.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230928.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 344554,
       "exportedPath": "lib/media/pasted-image-20240712230928.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208193100.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 126758,
       "exportedPath": "lib/media/pasted-image-20241208193100.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208193610.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 9407,
       "exportedPath": "lib/media/pasted-image-20241208193610.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208194805.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 72349,
       "exportedPath": "lib/media/pasted-image-20241208194805.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208202856.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 45017,
       "exportedPath": "lib/media/pasted-image-20241208202856.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208203120.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 60170,
       "exportedPath": "lib/media/pasted-image-20241208203120.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208214749.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 6762,
       "exportedPath": "lib/media/pasted-image-20241208214749.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208215722.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 5457,
       "exportedPath": "lib/media/pasted-image-20241208215722.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208220321.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 11063,
       "exportedPath": "lib/media/pasted-image-20241208220321.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208232626.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 1974177,
       "exportedPath": "lib/media/pasted-image-20241208232626.png",
       "dependencies": []
     },
+    "lib/media/банк.jpg": {
+      "modifiedTime": 1747005698493,
+      "sourceSize": 355021,
+      "exportedPath": "lib/media/банк.jpg",
+      "dependencies": []
+    },
     "lib/media/meme.jpg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 36132,
       "exportedPath": "lib/media/meme.jpg",
       "dependencies": []
     },
     "lib/media/shushary.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 169177,
       "exportedPath": "lib/media/shushary.png",
       "dependencies": []
     },
     "lib/media/meme-data.jpg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005698493,
       "sourceSize": 58202,
       "exportedPath": "lib/media/meme-data.jpg",
       "dependencies": []
     },
     "assets/index/img_3884.jpeg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 7149657,
       "exportedPath": "assets/index/img_3884.jpeg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1746285480940,
-      "sourceSize": 56880,
+      "modifiedTime": 1747005745077,
+      "sourceSize": 59546,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1746285480940,
-      "sourceSize": 1386,
+      "modifiedTime": 1747005745077,
+      "sourceSize": 1578,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 90551,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 396498,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 3900,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1746285480940,
+      "modifiedTime": 1747005745077,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
