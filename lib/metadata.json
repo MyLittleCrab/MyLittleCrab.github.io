@@ -1,6 +1,6 @@
 {
   "vaultName": "Nosov Blog",
-  "lastExport": 1747005745077,
+  "lastExport": 1752610121238,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -57,9 +57,67 @@
     "BlogPosts/Production/TLDR/Как собрать приложение для iOS на обычном ПК, или длинный путь установки MacOS на нормальное железо.md",
     "BlogPosts/Production/TLDR/Основы банкинга на пальцах.md",
     "BlogPosts/Production/TLDR/Экспортируем нужные нам данные из openStreetMap.md",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142145.png",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142447.png",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142451.png",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142619.png",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142750.png",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212637.png",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212700.png",
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212818.png",
+    "BlogPosts/Production/ui5-best-practices/EN/01. What to use for development (VSCode).md",
+    "BlogPosts/Production/ui5-best-practices/EN/02. Appearance and Structure of Applications.md",
+    "BlogPosts/Production/ui5-best-practices/EN/03. Fiori Elements and Freestyle.md",
+    "BlogPosts/Production/ui5-best-practices/EN/04. Deployment to SAP System.md",
+    "BlogPosts/Production/ui5-best-practices/EN/05. Error Handling.md",
+    "BlogPosts/Production/ui5-best-practices/EN/06. Modern JavaScript Syntax.md",
+    "BlogPosts/Production/ui5-best-practices/EN/07. i18n and Multiple Languages.md",
+    "BlogPosts/Production/ui5-best-practices/EN/08. oData.md",
+    "BlogPosts/Production/ui5-best-practices/EN/09. DataBinding in View.md",
+    "BlogPosts/Production/ui5-best-practices/EN/10. Controllers.md",
+    "BlogPosts/Production/ui5-best-practices/EN/11. Hungarian Notation.md",
+    "BlogPosts/Production/ui5-best-practices/EN/12. Linters.md",
+    "BlogPosts/Production/ui5-best-practices/EN/13. Routing and Navigation.md",
+    "BlogPosts/Production/ui5-best-practices/EN/14. TypeScript.md",
+    "BlogPosts/Production/ui5-best-practices/EN/15. Generating TypeScript Types from oData Backend Structures.md",
+    "BlogPosts/Production/ui5-best-practices/EN/16. Local XML Annotations.md",
+    "BlogPosts/Production/ui5-best-practices/EN/17. Automated Testing.md",
+    "BlogPosts/Production/ui5-best-practices/EN/18. Optimization.md",
+    "BlogPosts/Production/ui5-best-practices/EN/19. Migrating Legacy Projects.md",
+    "BlogPosts/Production/ui5-best-practices/EN/20. Working with Custom Controls.md",
+    "BlogPosts/Production/ui5-best-practices/EN/21. State management.md",
+    "BlogPosts/Production/ui5-best-practices/RU/01. В чём разрабатывать (VSCode).md",
+    "BlogPosts/Production/ui5-best-practices/RU/02. Внешний вид и структура приложений.md",
+    "BlogPosts/Production/ui5-best-practices/RU/03. Fiori Elements и Freestyle.md",
+    "BlogPosts/Production/ui5-best-practices/RU/04. Деплой в sap систему.md",
+    "BlogPosts/Production/ui5-best-practices/RU/05. Обработка ошибок.md",
+    "BlogPosts/Production/ui5-best-practices/RU/06. Современный JavaScript синтаксис.md",
+    "BlogPosts/Production/ui5-best-practices/RU/07. i18n и разные языки.md",
+    "BlogPosts/Production/ui5-best-practices/RU/08. oData.md",
+    "BlogPosts/Production/ui5-best-practices/RU/09. DataBinding во View.md",
+    "BlogPosts/Production/ui5-best-practices/RU/10. Контроллеры.md",
+    "BlogPosts/Production/ui5-best-practices/RU/11. Венгерская нотация.md",
+    "BlogPosts/Production/ui5-best-practices/RU/12. Линтеры.md",
+    "BlogPosts/Production/ui5-best-practices/RU/13. Роутинг и навигация.md",
+    "BlogPosts/Production/ui5-best-practices/RU/14. TypeScript.md",
+    "BlogPosts/Production/ui5-best-practices/RU/15. Генерация типов TypeScript по структурам с oData бэкенда.md",
+    "BlogPosts/Production/ui5-best-practices/RU/16. Локальные xml аннотации.md",
+    "BlogPosts/Production/ui5-best-practices/RU/17. Автоматическое тестирование.md",
+    "BlogPosts/Production/ui5-best-practices/RU/18. Оптимизация.md",
+    "BlogPosts/Production/ui5-best-practices/RU/19. Миграция старых проектов.md",
+    "BlogPosts/Production/ui5-best-practices/RU/20. Работа с кастомными контроллами.md",
+    "BlogPosts/Production/ui5-best-practices/RU/21. State management.md",
+    "BlogPosts/Production/ui5-best-practices/index.md",
     "index.md",
     "Shorts.md",
     "TL;DR.md",
+    "lib/media/pasted-image-20250703142145.png",
+    "lib/media/pasted-image-20250703142447.png",
+    "lib/media/pasted-image-20250703142451.png",
+    "lib/media/pasted-image-20250703142750.png",
+    "lib/media/pasted-image-20250715212637.png",
+    "lib/media/pasted-image-20250715212700.png",
+    "lib/media/pasted-image-20250715212818.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -520,8 +578,8 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1747005745077,
-      "sourceSize": 3408,
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3602,
       "exportedPath": "index.html",
       "dependencies": [
         "assets/index/img_3884.jpeg"
@@ -780,195 +838,561 @@
       "dependencies": []
     },
     "assets/index/img_3884.jpeg": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 7149657,
       "exportedPath": "assets/index/img_3884.jpeg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1747005745077,
-      "sourceSize": 59546,
+      "modifiedTime": 1752610121238,
+      "sourceSize": 103463,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1747005745077,
-      "sourceSize": 1578,
+      "modifiedTime": 1752610121238,
+      "sourceSize": 7698,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 90551,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 396498,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 3900,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1747005745077,
+      "modifiedTime": 1752610121238,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142145.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3565,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142145.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142447.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 7365,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142447.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142451.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 6915,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142451.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142619.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 15833,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142619.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142750.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 9567,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142750.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212637.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 18575,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250715212637.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212700.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1616,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250715212700.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212818.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 4270,
+      "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250715212818.png",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/01. What to use for development (VSCode).md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1035,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/01.-what-to-use-for-development-(vscode).html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/02. Appearance and Structure of Applications.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2050,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/02.-appearance-and-structure-of-applications.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/03. Fiori Elements and Freestyle.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1853,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/03.-fiori-elements-and-freestyle.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/04. Deployment to SAP System.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1510,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/04.-deployment-to-sap-system.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/05. Error Handling.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2515,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/05.-error-handling.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/06. Modern JavaScript Syntax.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1407,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/06.-modern-javascript-syntax.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/07. i18n and Multiple Languages.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2017,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/07.-i18n-and-multiple-languages.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250703142145.png",
+        "lib/media/pasted-image-20250703142447.png",
+        "lib/media/pasted-image-20250703142451.png",
+        "lib/media/pasted-image-20250703142750.png"
+      ]
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/08. oData.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 4588,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/08.-odata.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/09. DataBinding in View.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2616,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/09.-databinding-in-view.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/10. Controllers.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1067,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/10.-controllers.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/11. Hungarian Notation.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1151,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/11.-hungarian-notation.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/12. Linters.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3532,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/12.-linters.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/13. Routing and Navigation.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 6175,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/13.-routing-and-navigation.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/14. TypeScript.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 4334,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/14.-typescript.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/15. Generating TypeScript Types from oData Backend Structures.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2698,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/15.-generating-typescript-types-from-odata-backend-structures.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250715212637.png",
+        "lib/media/pasted-image-20250715212700.png",
+        "lib/media/pasted-image-20250715212818.png"
+      ]
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/16. Local XML Annotations.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 7546,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/16.-local-xml-annotations.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/17. Automated Testing.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 6268,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/17.-automated-testing.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/18. Optimization.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 6125,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/18.-optimization.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/19. Migrating Legacy Projects.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 5144,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/19.-migrating-legacy-projects.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/20. Working with Custom Controls.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 5956,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/20.-working-with-custom-controls.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/EN/21. State management.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2825,
+      "exportedPath": "blogposts/production/ui5-best-practices/en/21.-state-management.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/01. В чём разрабатывать (VSCode).md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1402,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/01.-в-чём-разрабатывать-(vscode).html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/02. Внешний вид и структура приложений.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3127,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/02.-внешний-вид-и-структура-приложений.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/03. Fiori Elements и Freestyle.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2914,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/03.-fiori-elements-и-freestyle.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/04. Деплой в sap систему.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2217,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/04.-деплой-в-sap-систему.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/05. Обработка ошибок.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3683,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/05.-обработка-ошибок.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/06. Современный JavaScript синтаксис.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2433,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/06.-современный-javascript-синтаксис.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/07. i18n и разные языки.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 2669,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/07.-i18n-и-разные-языки.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250703142145.png",
+        "lib/media/pasted-image-20250703142447.png",
+        "lib/media/pasted-image-20250703142451.png",
+        "lib/media/pasted-image-20250703142750.png"
+      ]
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/08. oData.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 7692,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/08.-odata.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/09. DataBinding во View.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3910,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/09.-databinding-во-view.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/10. Контроллеры.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1697,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/10.-контроллеры.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/11. Венгерская нотация.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1857,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/11.-венгерская-нотация.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/12. Линтеры.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 4240,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/12.-линтеры.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/13. Роутинг и навигация.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 8618,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/13.-роутинг-и-навигация.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/14. TypeScript.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 5799,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/14.-typescript.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/15. Генерация типов TypeScript по структурам с oData бэкенда.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3663,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/15.-генерация-типов-typescript-по-структурам-с-odata-бэкенда.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250715212637.png",
+        "lib/media/pasted-image-20250715212700.png",
+        "lib/media/pasted-image-20250715212818.png"
+      ]
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/16. Локальные xml аннотации.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 8958,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/16.-локальные-xml-аннотации.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/17. Автоматическое тестирование.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 10860,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/17.-автоматическое-тестирование.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/18. Оптимизация.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 8684,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/18.-оптимизация.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/19. Миграция старых проектов.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 6861,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/19.-миграция-старых-проектов.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/20. Работа с кастомными контроллами.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 8462,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/20.-работа-с-кастомными-контроллами.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/RU/21. State management.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 4298,
+      "exportedPath": "blogposts/production/ui5-best-practices/ru/21.-state-management.html",
+      "dependencies": []
+    },
+    "BlogPosts/Production/ui5-best-practices/index.md": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 4649,
+      "exportedPath": "blogposts/production/ui5-best-practices/index.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250703142145.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 3565,
+      "exportedPath": "lib/media/pasted-image-20250703142145.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250703142447.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 7365,
+      "exportedPath": "lib/media/pasted-image-20250703142447.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250703142451.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 6915,
+      "exportedPath": "lib/media/pasted-image-20250703142451.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250703142750.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 9567,
+      "exportedPath": "lib/media/pasted-image-20250703142750.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250715212637.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 18575,
+      "exportedPath": "lib/media/pasted-image-20250715212637.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250715212700.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 1616,
+      "exportedPath": "lib/media/pasted-image-20250715212700.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250715212818.png": {
+      "modifiedTime": 1752610121238,
+      "sourceSize": 4270,
+      "exportedPath": "lib/media/pasted-image-20250715212818.png",
       "dependencies": []
     }
   }
