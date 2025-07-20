@@ -1,0 +1,3 @@
+[submodule "sqlitetrainer"]
+	path = sqlitetrainer
+	url = https://github.com/MyLittleCrab/SQLite-trainer.git
