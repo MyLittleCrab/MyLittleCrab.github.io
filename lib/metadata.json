@@ -1,6 +1,6 @@
 {
   "vaultName": "Nosov Blog",
-  "lastExport": 1753298062447,
+  "lastExport": 1753299735722,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -232,277 +232,277 @@
   ],
   "fileInfo": {
     "Assets/Основы банкинга/банк.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 355021,
       "exportedPath": "assets/основы-банкинга/банк.jpg",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/background.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 314108,
       "exportedPath": "assets/экспорт-из-openstreetmap/background.jpg",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/meme.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 36132,
       "exportedPath": "assets/экспорт-из-openstreetmap/meme.jpg",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/meme data.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 58202,
       "exportedPath": "assets/экспорт-из-openstreetmap/meme-data.jpg",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/shushary.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 169177,
       "exportedPath": "assets/экспорт-из-openstreetmap/shushary.png",
       "dependencies": []
     },
     "Assets/Экспорт из openstreetmap/stations.csv": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 511582,
       "exportedPath": "assets/экспорт-из-openstreetmap/stations.csv",
       "dependencies": []
     },
     "Assets/anki/Pasted image 20250722212551.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 184194,
       "exportedPath": "assets/anki/pasted-image-20250722212551.png",
       "dependencies": []
     },
     "Assets/index/IMG_3884.jpeg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7149657,
       "exportedPath": "assets/index/img_3884.jpeg",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208193100.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 126758,
       "exportedPath": "assets/macos/pasted-image-20241208193100.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208193610.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 9407,
       "exportedPath": "assets/macos/pasted-image-20241208193610.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208194805.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 72349,
       "exportedPath": "assets/macos/pasted-image-20241208194805.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208202856.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 45017,
       "exportedPath": "assets/macos/pasted-image-20241208202856.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208203120.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 60170,
       "exportedPath": "assets/macos/pasted-image-20241208203120.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208214749.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6762,
       "exportedPath": "assets/macos/pasted-image-20241208214749.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208215722.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5457,
       "exportedPath": "assets/macos/pasted-image-20241208215722.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208220321.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 11063,
       "exportedPath": "assets/macos/pasted-image-20241208220321.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208225828.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 11063,
       "exportedPath": "assets/macos/pasted-image-20241208225828.png",
       "dependencies": []
     },
     "Assets/MacOS/Pasted image 20241208232626.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1974177,
       "exportedPath": "assets/macos/pasted-image-20241208232626.png",
       "dependencies": []
     },
     "Assets/QR сканнер/photo_2024-03-05_23-49-50.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 57268,
       "exportedPath": "assets/qr-сканнер/photo_2024-03-05_23-49-50.jpg",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503174351.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 90361,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503174351.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503175410.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 17645,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503175410.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503180710.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6929,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503180710.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503180842.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5572,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503180842.png",
       "dependencies": []
     },
     "Assets/VDS за NAT/Pasted image 20250503182001.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 8895,
       "exportedPath": "assets/vds-за-nat/pasted-image-20250503182001.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712215939.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 40853,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712215939.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712220921.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 20915,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712220921.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221325.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 16015,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221325.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221509.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 30210,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221509.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221805.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 30751,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221805.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712221847.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 20493,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712221847.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712222325.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2452,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712222325.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712222534.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 21065,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712222534.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712223050.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 11136,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712223050.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712223616.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 11168,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712223616.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712223651.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 75829,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712223651.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712224453.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 143157,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712224453.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712225058.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 77429,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712225058.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712225737.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 64187,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712225737.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712225843.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 34976,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712225843.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230057.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 33801,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230057.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230216.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 15308,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230216.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230248.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 45308,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230248.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230613.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 31149,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230613.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230828.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6177,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230828.png",
       "dependencies": []
     },
     "Assets/VPN на роутере/pasted-image-20240712230928.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 344554,
       "exportedPath": "assets/vpn-на-роутере/pasted-image-20240712230928.png",
       "dependencies": []
     },
     "BlogPosts/Production/Shorts/Как запиратить себе Anki на iPhone.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4702,
       "exportedPath": "blogposts/production/shorts/как-запиратить-себе-anki-на-iphone.html",
       "dependencies": [
@@ -510,7 +510,7 @@
       ]
     },
     "BlogPosts/Production/Shorts/Простой QR сканнер своими руками без мам, пап и кредитов на React Native.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6461,
       "exportedPath": "blogposts/production/shorts/простой-qr-сканнер-своими-руками-без-мам,-пап-и-кредитов-на-react-native.html",
       "dependencies": [
@@ -518,13 +518,13 @@
       ]
     },
     "BlogPosts/Production/Shorts/http сервер для статики одной командой.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 458,
       "exportedPath": "blogposts/production/shorts/http-сервер-для-статики-одной-командой.html",
       "dependencies": []
     },
     "BlogPosts/Production/Shorts/VDS за NAT — как на нём хостить фоновые задания и веб-сервисы.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5123,
       "exportedPath": "blogposts/production/shorts/vds-за-nat-—-как-на-нём-хостить-фоновые-задания-и-веб-сервисы.html",
       "dependencies": [
@@ -536,7 +536,7 @@
       ]
     },
     "BlogPosts/Production/TLDR/Как заворачивать трафик в VPN на уровне роутера.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 14545,
       "exportedPath": "blogposts/production/tldr/как-заворачивать-трафик-в-vpn-на-уровне-роутера.html",
       "dependencies": [
@@ -564,7 +564,7 @@
       ]
     },
     "BlogPosts/Production/TLDR/Как собрать приложение для iOS на обычном ПК, или длинный путь установки MacOS на нормальное железо.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 18617,
       "exportedPath": "blogposts/production/tldr/как-собрать-приложение-для-ios-на-обычном-пк,-или-длинный-путь-установки-macos-на-нормальное-железо.html",
       "dependencies": [
@@ -580,7 +580,7 @@
       ]
     },
     "BlogPosts/Production/TLDR/Основы банкинга на пальцах.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 9587,
       "exportedPath": "blogposts/production/tldr/основы-банкинга-на-пальцах.html",
       "dependencies": [
@@ -588,7 +588,7 @@
       ]
     },
     "BlogPosts/Production/TLDR/Экспортируем нужные нам данные из openStreetMap.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 14220,
       "exportedPath": "blogposts/production/tldr/экспортируем-нужные-нам-данные-из-openstreetmap.html",
       "dependencies": [
@@ -598,91 +598,91 @@
       ]
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142145.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3565,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142145.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142447.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7365,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142447.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142451.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6915,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142451.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142619.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 15833,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142619.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250703142750.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 9567,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250703142750.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212637.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 18575,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250715212637.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212700.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1616,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250715212700.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/assets/Pasted image 20250715212818.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4270,
       "exportedPath": "blogposts/production/ui5-best-practices/assets/pasted-image-20250715212818.png",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/01. What to use for development (VSCode).md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1035,
       "exportedPath": "blogposts/production/ui5-best-practices/en/01.-what-to-use-for-development-(vscode).html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/02. Appearance and Structure of Applications.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2050,
       "exportedPath": "blogposts/production/ui5-best-practices/en/02.-appearance-and-structure-of-applications.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/03. Fiori Elements and Freestyle.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1853,
       "exportedPath": "blogposts/production/ui5-best-practices/en/03.-fiori-elements-and-freestyle.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/04. Deployment to SAP System.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1510,
       "exportedPath": "blogposts/production/ui5-best-practices/en/04.-deployment-to-sap-system.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/05. Error Handling.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2515,
       "exportedPath": "blogposts/production/ui5-best-practices/en/05.-error-handling.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/06. Modern JavaScript Syntax.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1407,
       "exportedPath": "blogposts/production/ui5-best-practices/en/06.-modern-javascript-syntax.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/07. i18n and Multiple Languages.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2017,
       "exportedPath": "blogposts/production/ui5-best-practices/en/07.-i18n-and-multiple-languages.html",
       "dependencies": [
@@ -693,49 +693,49 @@
       ]
     },
     "BlogPosts/Production/ui5-best-practices/EN/08. oData.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4588,
       "exportedPath": "blogposts/production/ui5-best-practices/en/08.-odata.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/09. DataBinding in View.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2616,
       "exportedPath": "blogposts/production/ui5-best-practices/en/09.-databinding-in-view.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/10. Controllers.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1067,
       "exportedPath": "blogposts/production/ui5-best-practices/en/10.-controllers.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/11. Hungarian Notation.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1151,
       "exportedPath": "blogposts/production/ui5-best-practices/en/11.-hungarian-notation.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/12. Linters.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3532,
       "exportedPath": "blogposts/production/ui5-best-practices/en/12.-linters.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/13. Routing and Navigation.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6175,
       "exportedPath": "blogposts/production/ui5-best-practices/en/13.-routing-and-navigation.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/14. TypeScript.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4334,
       "exportedPath": "blogposts/production/ui5-best-practices/en/14.-typescript.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/15. Generating TypeScript Types from oData Backend Structures.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2698,
       "exportedPath": "blogposts/production/ui5-best-practices/en/15.-generating-typescript-types-from-odata-backend-structures.html",
       "dependencies": [
@@ -745,79 +745,79 @@
       ]
     },
     "BlogPosts/Production/ui5-best-practices/EN/16. Local XML Annotations.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7546,
       "exportedPath": "blogposts/production/ui5-best-practices/en/16.-local-xml-annotations.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/17. Automated Testing.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6268,
       "exportedPath": "blogposts/production/ui5-best-practices/en/17.-automated-testing.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/18. Optimization.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6125,
       "exportedPath": "blogposts/production/ui5-best-practices/en/18.-optimization.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/19. Migrating Legacy Projects.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5144,
       "exportedPath": "blogposts/production/ui5-best-practices/en/19.-migrating-legacy-projects.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/20. Working with Custom Controls.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5956,
       "exportedPath": "blogposts/production/ui5-best-practices/en/20.-working-with-custom-controls.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/EN/21. State management.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2825,
       "exportedPath": "blogposts/production/ui5-best-practices/en/21.-state-management.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/01. В чём разрабатывать (VSCode).md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1402,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/01.-в-чём-разрабатывать-(vscode).html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/02. Внешний вид и структура приложений.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3127,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/02.-внешний-вид-и-структура-приложений.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/03. Fiori Elements и Freestyle.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2914,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/03.-fiori-elements-и-freestyle.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/04. Деплой в sap систему.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2217,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/04.-деплой-в-sap-систему.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/05. Обработка ошибок.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3683,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/05.-обработка-ошибок.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/06. Современный JavaScript синтаксис.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2433,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/06.-современный-javascript-синтаксис.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/07. i18n и разные языки.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2669,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/07.-i18n-и-разные-языки.html",
       "dependencies": [
@@ -828,49 +828,49 @@
       ]
     },
     "BlogPosts/Production/ui5-best-practices/RU/08. oData.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7692,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/08.-odata.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/09. DataBinding во View.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3910,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/09.-databinding-во-view.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/10. Контроллеры.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1697,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/10.-контроллеры.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/11. Венгерская нотация.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1857,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/11.-венгерская-нотация.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/12. Линтеры.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4240,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/12.-линтеры.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/13. Роутинг и навигация.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 8618,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/13.-роутинг-и-навигация.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/14. TypeScript.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5799,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/14.-typescript.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/15. Генерация типов TypeScript по структурам с oData бэкенда.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3663,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/15.-генерация-типов-typescript-по-структурам-с-odata-бэкенда.html",
       "dependencies": [
@@ -880,49 +880,49 @@
       ]
     },
     "BlogPosts/Production/ui5-best-practices/RU/16. Локальные xml аннотации.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 8958,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/16.-локальные-xml-аннотации.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/17. Автоматическое тестирование.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 10860,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/17.-автоматическое-тестирование.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/18. Оптимизация.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 8684,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/18.-оптимизация.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/19. Миграция старых проектов.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6861,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/19.-миграция-старых-проектов.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/20. Работа с кастомными контроллами.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 8462,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/20.-работа-с-кастомными-контроллами.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/RU/21. State management.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4298,
       "exportedPath": "blogposts/production/ui5-best-practices/ru/21.-state-management.html",
       "dependencies": []
     },
     "BlogPosts/Production/ui5-best-practices/index.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4649,
       "exportedPath": "blogposts/production/ui5-best-practices/index.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3957,
       "exportedPath": "index.html",
       "dependencies": [
@@ -930,511 +930,511 @@
       ]
     },
     "Shorts.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1877,
       "exportedPath": "shorts.html",
       "dependencies": []
     },
     "TL;DR.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2232,
       "exportedPath": "tl;dr.html",
       "dependencies": []
     },
     "lib/media/pasted-image-20250722212551.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 184194,
       "exportedPath": "lib/media/pasted-image-20250722212551.png",
       "dependencies": []
     },
     "lib/media/photo_2024-03-05_23-49-50.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 57268,
       "exportedPath": "lib/media/photo_2024-03-05_23-49-50.jpg",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503174351.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 90361,
       "exportedPath": "lib/media/pasted-image-20250503174351.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503175410.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 17645,
       "exportedPath": "lib/media/pasted-image-20250503175410.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503180710.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6929,
       "exportedPath": "lib/media/pasted-image-20250503180710.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503180842.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5572,
       "exportedPath": "lib/media/pasted-image-20250503180842.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250503182001.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 8895,
       "exportedPath": "lib/media/pasted-image-20250503182001.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712215939.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 40853,
       "exportedPath": "lib/media/pasted-image-20240712215939.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712220921.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 20915,
       "exportedPath": "lib/media/pasted-image-20240712220921.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221325.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 16015,
       "exportedPath": "lib/media/pasted-image-20240712221325.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221509.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 30210,
       "exportedPath": "lib/media/pasted-image-20240712221509.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221805.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 30751,
       "exportedPath": "lib/media/pasted-image-20240712221805.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712221847.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 20493,
       "exportedPath": "lib/media/pasted-image-20240712221847.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712222325.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 2452,
       "exportedPath": "lib/media/pasted-image-20240712222325.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712222534.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 21065,
       "exportedPath": "lib/media/pasted-image-20240712222534.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712223050.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 11136,
       "exportedPath": "lib/media/pasted-image-20240712223050.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712223651.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 75829,
       "exportedPath": "lib/media/pasted-image-20240712223651.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712223616.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 11168,
       "exportedPath": "lib/media/pasted-image-20240712223616.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712224453.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 143157,
       "exportedPath": "lib/media/pasted-image-20240712224453.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712225058.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 77429,
       "exportedPath": "lib/media/pasted-image-20240712225058.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712225737.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 64187,
       "exportedPath": "lib/media/pasted-image-20240712225737.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712225843.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 34976,
       "exportedPath": "lib/media/pasted-image-20240712225843.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230057.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 33801,
       "exportedPath": "lib/media/pasted-image-20240712230057.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230248.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 45308,
       "exportedPath": "lib/media/pasted-image-20240712230248.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230216.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 15308,
       "exportedPath": "lib/media/pasted-image-20240712230216.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230613.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 31149,
       "exportedPath": "lib/media/pasted-image-20240712230613.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230828.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6177,
       "exportedPath": "lib/media/pasted-image-20240712230828.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240712230928.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 344554,
       "exportedPath": "lib/media/pasted-image-20240712230928.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208193100.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 126758,
       "exportedPath": "lib/media/pasted-image-20241208193100.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208193610.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 9407,
       "exportedPath": "lib/media/pasted-image-20241208193610.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208194805.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 72349,
       "exportedPath": "lib/media/pasted-image-20241208194805.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208202856.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 45017,
       "exportedPath": "lib/media/pasted-image-20241208202856.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208203120.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 60170,
       "exportedPath": "lib/media/pasted-image-20241208203120.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208214749.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6762,
       "exportedPath": "lib/media/pasted-image-20241208214749.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208215722.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5457,
       "exportedPath": "lib/media/pasted-image-20241208215722.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208220321.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 11063,
       "exportedPath": "lib/media/pasted-image-20241208220321.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241208232626.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1974177,
       "exportedPath": "lib/media/pasted-image-20241208232626.png",
       "dependencies": []
     },
     "lib/media/банк.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 355021,
       "exportedPath": "lib/media/банк.jpg",
       "dependencies": []
     },
     "lib/media/meme.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 36132,
       "exportedPath": "lib/media/meme.jpg",
       "dependencies": []
     },
     "lib/media/shushary.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 169177,
       "exportedPath": "lib/media/shushary.png",
       "dependencies": []
     },
     "lib/media/meme-data.jpg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 58202,
       "exportedPath": "lib/media/meme-data.jpg",
       "dependencies": []
     },
     "lib/media/pasted-image-20250703142145.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3565,
       "exportedPath": "lib/media/pasted-image-20250703142145.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250703142447.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7365,
       "exportedPath": "lib/media/pasted-image-20250703142447.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250703142451.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6915,
       "exportedPath": "lib/media/pasted-image-20250703142451.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250703142750.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 9567,
       "exportedPath": "lib/media/pasted-image-20250703142750.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250715212637.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 18575,
       "exportedPath": "lib/media/pasted-image-20250715212637.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250715212700.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1616,
       "exportedPath": "lib/media/pasted-image-20250715212700.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20250715212818.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4270,
       "exportedPath": "lib/media/pasted-image-20250715212818.png",
       "dependencies": []
     },
     "assets/index/img_3884.jpeg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7149657,
       "exportedPath": "assets/index/img_3884.jpeg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 110527,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 8037,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 90551,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 396498,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 3900,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Assets/Español/Anki.csv": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 4780,
       "exportedPath": "assets/español/anki.csv",
       "dependencies": []
     },
     "BlogPosts/Español/Правила чтения в кастильском.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 6700,
       "exportedPath": "blogposts/español/правила-чтения-в-кастильском.html",
       "dependencies": []
     },
     "BlogPosts/Español/Cómo instalar Anki en iPhone.md": {
-      "modifiedTime": 1753298062447,
+      "modifiedTime": 1753299735722,
       "sourceSize": 7712,
       "exportedPath": "blogposts/español/cómo-instalar-anki-en-iphone.html",
       "dependencies": [
